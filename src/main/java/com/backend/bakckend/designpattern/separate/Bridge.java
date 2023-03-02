@@ -3,6 +3,7 @@ package com.backend.bakckend.designpattern.separate;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
+
 interface AbstractList<T>{
     void add(T t);
     T remove(int index);
@@ -37,22 +38,7 @@ class List<T>{
 
 }
 
-class Queue<T> extends List<T>{
 
-    Queue(AbstractList<T> list){
-        super(list);
-        System.out.println("Queue is created");
-    }
-
-    void enQueue(T t){
-        list.add(t);
-    }
-
-    T deQueue(){
-        return remove(0);
-    }
-
-}
 
 class Stack<T> extends List<T>{
 
@@ -66,6 +52,23 @@ class Stack<T> extends List<T>{
     }
 
     T pop(){
+        return remove(0);
+    }
+
+}
+
+class Queue<T> extends List<T>{
+
+    Queue(AbstractList<T> list){
+        super(list);
+        System.out.println("Queue is created");
+    }
+
+    void enQueue(T t){
+        list.add(t);
+    }
+
+    T deQueue(){
         return remove(0);
     }
 
@@ -148,12 +151,13 @@ class LinkedListImpl<T> implements AbstractList<T>{
 public class Bridge {
 
     public static void main(String[] args) {
+
+        // Queue method bridge (ArrayImpl, LinkedListImpl)
         Queue<Integer> queue = new Queue<Integer>(new ArrayImpl<Integer>());
         queue.enQueue(1);
         queue.enQueue(2);
         queue.enQueue(3);
 
-        //System.out.println(queue.getSize());
         System.out.println(queue.deQueue());
         System.out.println(queue.deQueue());
         System.out.println(queue.deQueue());
@@ -170,6 +174,7 @@ public class Bridge {
         System.out.println(queue2.deQueue());
         System.out.println("=================");
 
+        // Stack method bridge (ArrayImpl, LinkedListImpl)
         Stack<String> arrayStack = new Stack<String>(new ArrayImpl<String>());
         arrayStack.push("aaa");
         arrayStack.push("bbb");
