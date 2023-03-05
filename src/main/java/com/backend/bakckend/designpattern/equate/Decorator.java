@@ -1,4 +1,4 @@
-package com.backend.bakckend.designpattern.identify_composite;
+package com.backend.bakckend.designpattern.equate;
 
 
 abstract class Coffee{
