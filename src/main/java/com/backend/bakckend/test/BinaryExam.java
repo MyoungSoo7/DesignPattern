@@ -16,5 +16,7 @@ public class BinaryExam {
         int z = 0173;
         int w = 0x7b;
         System.out.println(x+ " " + y + " " + z + " " + w);
+
+
     }
 }
