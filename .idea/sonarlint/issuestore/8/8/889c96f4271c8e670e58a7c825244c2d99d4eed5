@@ -1,0 +1,11 @@
+
+L	java:S106!"+Replace this use of System.out by a logger.(„ØÎ›ùÿÿÿÿ8žîœ¼À1
+L	java:S106%"+Replace this use of System.out by a logger.(„ØÎ›ùÿÿÿÿ8žîœ¼À1
+L	java:S106)"+Replace this use of System.out by a logger.(„ØÎ›ùÿÿÿÿ8Ÿîœ¼À1
+G	java:S106-"+Replace this use of System.out by a logger.(”ßÓ€8 îœ¼À1
+G	java:S1062"+Replace this use of System.out by a logger.(ÖÛÛþ8 îœ¼À1
+G	java:S106<"+Replace this use of System.out by a logger.(ÕÂõÑ8 îœ¼À1
+H
+java:S1068E"&Remove this unused "id" private field.(þÓî«þÿÿÿÿ8¢îœ¼À1
+G
+java:S1068I"*Remove this unused "author" private field.(á™Ï8¢îœ¼À1

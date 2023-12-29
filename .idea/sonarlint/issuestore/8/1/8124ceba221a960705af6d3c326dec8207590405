@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ»ª´ûÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "f".(æñÿêÿÿÿÿÿ
+_
+java:S2147"DCombine this catch with the one at line 16, which has the same body.(ğæ£„şÿÿÿÿ
+A
+java:S1481"&Remove this unused "f" local variable.(æñÿêÿÿÿÿÿ
+b
+java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡
+Q	java:S125"<This block of commented-out lines of code should be removed.(±¿•Š

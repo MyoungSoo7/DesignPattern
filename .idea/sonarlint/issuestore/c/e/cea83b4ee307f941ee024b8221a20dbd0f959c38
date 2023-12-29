@@ -1,0 +1,10 @@
+
+Y
+java:S1854
+"7Remove this useless assignment to local variable "run".( ½æ€ÿÿÿÿÿ8ú˜Ë±À1
+X	java:S125"<This block of commented-out lines of code should be removed.(—òÕý8ÒÄÅ±À1
+J
+java:S1481
+"(Remove this unused "run" local variable.( ½æ€ÿÿÿÿÿ8û˜Ë±À1
+G	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§8×ÄÅ±À1
+L	java:S106"+Replace this use of System.out by a logger.(¾šû…üÿÿÿÿ8ØÄÅ±À1

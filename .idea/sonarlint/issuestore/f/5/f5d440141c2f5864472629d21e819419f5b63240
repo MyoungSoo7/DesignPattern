@@ -1,0 +1,17 @@
+
+_
+java:S1854"=Remove this useless assignment to local variable "stringArr".(ûõÒıúÿÿÿÿ8Øß¢®¿1
+\
+java:S1854":Remove this useless assignment to local variable "recipe".(Å´µİøÿÿÿÿ8Èû†¯¿1
+S
+java:S1854	"7Remove this useless assignment to local variable "rep".(Å‡õT8áß¢®¿1
+D
+java:S1481	"(Remove this unused "rep" local variable.(Å‡õT8âß¢®¿1
+M
+java:S1481"+Remove this unused "recipe" local variable.(Å´µİøÿÿÿÿ8Éû†¯¿1
+]	java:S125"<This block of commented-out lines of code should be removed.(€ëóıÿÿÿÿ8âß¢®¿1
+P
+java:S1481".Remove this unused "stringArr" local variable.(ûõÒıúÿÿÿÿ8ãß¢®¿1
+]	java:S125$"<This block of commented-out lines of code should be removed.(‰ì™Úúÿÿÿÿ8ãß¢®¿1
+G	java:S106&"+Replace this use of System.out by a logger.(Òà´Ç8äß¢®¿1
+G	java:S106)"+Replace this use of System.out by a logger.(Òà´Ç8ÏŞ£®¿1

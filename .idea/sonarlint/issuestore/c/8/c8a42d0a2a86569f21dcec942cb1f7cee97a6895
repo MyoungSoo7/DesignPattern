@@ -1,0 +1,6 @@
+
+L	java:S106!"+Replace this use of System.out by a logger.(š‡»Íøÿÿÿÿ8Â›«¾À1
+{
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Â›«¾À1
+E	java:S108%")Either remove or fill this block of code.(ä ¹€8Â›«¾À1
+L	java:S106+"+Replace this use of System.out by a logger.(ˆëçŠùÿÿÿÿ8Ã›«¾À1

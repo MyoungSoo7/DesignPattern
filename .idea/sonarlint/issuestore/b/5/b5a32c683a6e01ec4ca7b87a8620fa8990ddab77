@@ -1,0 +1,7 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ô²ÍŽ8Ÿ¿“°À1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(àÞð†ûÿÿÿÿ8Ÿ¿“°À1
+g	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(ä÷“¶ÿÿÿÿÿ8 ¿“°À1
+^
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(È‹ßýþÿÿÿÿ8–¢ŠŽÀ1
+C	java:S131'""Add a default case to this switch.(¤ð’ÿÿÿÿÿ8š¢ŠŽÀ1

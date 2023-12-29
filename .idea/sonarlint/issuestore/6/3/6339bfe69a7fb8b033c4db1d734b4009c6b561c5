@@ -1,0 +1,51 @@
+
+l
+java:S1192<"JDefine a constant instead of duplicating this literal " Waiting!" 3 times.(ÜÄÂ²øÿÿÿÿ8‚§†¾À1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûûðâ8ƒ§†¾À1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‹˜ì8ƒ§†¾À1
+v
+java:S1104
+"TMake itemList a static final constant or non-public and provide accessors if needed.(ì¨õŽûÿÿÿÿ8ƒ§†¾À1
+s
+java:S1104"VMake appleStore a static final constant or non-public and provide accessors if needed.(¿°â‚8ƒ§†¾À1
+P
+java:S1444
+".Make this "public static itemList" field final(ì¨õŽûÿÿÿÿ8ƒ§†¾À1
+M
+java:S1444"0Make this "public static appleStore" field final(¿°â‚8ƒ§†¾À1
+?
+java:S2386
+"Make this member "protected".(ì¨õŽûÿÿÿÿ8¢§†¾À1
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(µ™´·ûÿÿÿÿ8¥§†¾À1
+€
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(®ûºöÿÿÿÿÿ8¥§†¾À1
+J	java:S108")Either remove or fill this block of code.(®ûºöÿÿÿÿÿ8¥§†¾À1
+€
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(®ûºöÿÿÿÿÿ8¥§†¾À1
+J	java:S108#")Either remove or fill this block of code.(®ûºöÿÿÿÿÿ8¥§†¾À1
+K
+java:S2140&")Use "java.util.Random.nextInt()" instead.(µ™´·ûÿÿÿÿ8¥§†¾À1
+L	java:S106("+Replace this use of System.out by a logger.(è…¾éûÿÿÿÿ8¥§†¾À1
+L	java:S106<"+Replace this use of System.out by a logger.(ÜÄÂ²øÿÿÿÿ8§§†¾À1
+{
+java:S2142@"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8§§†¾À1
+`
+java:S2276?"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(âÑ¦Ó8§§†¾À1
+M
+java:S2446F"0"notify" may not wake up the appropriate thread.(êÃÁÇ8¨§†¾À1
+L	java:S106G"+Replace this use of System.out by a logger.(çÞŒ‘ùÿÿÿÿ8¨§†¾À1
+[
+java:S1155L">Use isEmpty() to check whether the collection is empty or not.(Á‰·‰8¨§†¾À1
+L	java:S106M"+Replace this use of System.out by a logger.(ÜÄÂ²øÿÿÿÿ8¨§†¾À1
+{
+java:S2142Q"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¨§†¾À1
+`
+java:S2276P"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(âÑ¦Ó8©§†¾À1
+R
+java:S2446["0"notify" may not wake up the appropriate thread.(û²ÿþýÿÿÿÿ8©§†¾À1
+{
+java:S2142e"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ª§†¾À1
+L	java:S106b"+Replace this use of System.out by a logger.(ÜÄÂ²øÿÿÿÿ8ª§†¾À1
+`
+java:S2276d"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(âÑ¦Ó8ª§†¾À1

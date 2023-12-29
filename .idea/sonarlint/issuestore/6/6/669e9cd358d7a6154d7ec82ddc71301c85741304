@@ -1,0 +1,7 @@
+
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8üæ¼À1
+L	java:S106
+"+Replace this use of System.out by a logger.(›Óğ°şÿÿÿÿ8şæ¼À1
+G	java:S106"+Replace this use of System.out by a logger.(Íÿ×˜8€æ¼À1
+G	java:S106"+Replace this use of System.out by a logger.(‡ıŸØ8æ¼À1

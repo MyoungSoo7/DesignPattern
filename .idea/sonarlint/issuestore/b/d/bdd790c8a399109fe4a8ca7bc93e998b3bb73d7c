@@ -1,0 +1,31 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¨˜Â8ø–ú¯¿1
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔÒíÇ8ø–ú¯¿1
+{
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸´úôøÿÿÿÿ8ø–ú¯¿1
+v
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(²óÕ§8ø–ú¯¿1
+„
+java:S1192"hDefine a constant instead of duplicating this literal "ë‘ë¶€ë¥¼ ë„£ê³  5ë¶„ ì •ë„ ë“ì¸ë‹¤." 4 times.( Ò–8ø–ú¯¿1
+‚
+java:S1192"`Define a constant instead of duplicating this literal "ê³„ë€ì„ í’€ì–´ì„œ ë„£ëŠ”ë‹¤.
+" 3 times.(ÂúªÀşÿÿÿÿ8ø–ú¯¿1
+‚
+java:S1192"`Define a constant instead of duplicating this literal "ì–‘íŒŒë¥¼ ì±„ì°ì–´ ë„£ëŠ”ë‹¤.
+" 3 times.(Ì ›Îüÿÿÿÿ8ø–ú¯¿1
+
+java:S1192"_Define a constant instead of duplicating this literal "ìˆœë‘ë¶€ì†ŒìŠ¤ë¥¼ ë„£ëŠ”ë‹¤.
+" 3 times.(÷Ê®ëøÿÿÿÿ8ø–ú¯¿1
+v
+java:S1192"YDefine a constant instead of duplicating this literal "ë¬¼ 200mlë¥¼ ë“ì¸ë‹¤.
+" 3 times.(ğ¡åõ8ø–ú¯¿1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÔÒíÇ8ú–ú¯¿1
+]	java:S125"<This block of commented-out lines of code should be removed.(¢–‡üÿÿÿÿ8ü–ú¯¿1
+]	java:S125"<This block of commented-out lines of code should be removed.(…º‡úÿÿÿÿ8ı–ú¯¿1
+X	java:S125)"<This block of commented-out lines of code should be removed.(¿Ñ™À8ş–ú¯¿1
+L	java:S106:"+Replace this use of System.out by a logger.(øëåşÿÿÿÿÿ8ş–ú¯¿1
+W	java:S1256"<This block of commented-out lines of code should be removed.(ÁÚ±8ş–ú¯¿1
+X	java:S125C"<This block of commented-out lines of code should be removed.(Ÿ½Šû8ÿ–ú¯¿1
