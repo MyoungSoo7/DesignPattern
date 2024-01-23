@@ -39,9 +39,6 @@ public class Main {
         // 삼항식에 람다식 적용
         //(x,y) -> x < y ? x : y;
 
-
-
-
         // 컬렉션
         List<String> list = Arrays.asList("a", "b", "c");;
         // 스트림

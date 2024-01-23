@@ -265,10 +265,6 @@ v
 Fsrc/main/java/com/backend/bakckend/designpattern/equate/Composite.java,0\6\06e87d0e43bdd955ffd0926ea2eb3e69db567747
 x
 Hsrc/main/java/com/backend/bakckend/javaversion/version14/RecordName.java,e\5\e5df497bc889d8ded5619caae472fef5d788f48f
-s
-Csrc/main/java/com/backend/bakckend/javaversion/version21/Point.java,3\4\340d328fd5f5b33f55d975e2f0980145ec1a4d64
-x
-Hsrc/main/java/com/backend/bakckend/javaversion/version21/RecordTest.java,0\6\06881cfaaea8bba71173db5bff9e9a6777e143e5
 }
 Msrc/main/java/com/backend/bakckend/javaversion/version16/PatternVariable.java,f\a\fa7b0833a888047d8aaea62db88a118430eec431
 r
