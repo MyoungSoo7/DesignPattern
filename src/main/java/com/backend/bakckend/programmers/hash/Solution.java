@@ -2,7 +2,7 @@ package com.backend.bakckend.programmers.hash;
 
 import java.util.Arrays;
 
-class Solution {
+class PhoneBook {
 
     public boolean solution(String[] phone_book) {
 
@@ -18,9 +18,9 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        PhoneBook phone_book = new PhoneBook();
         String[] phoneBook = {"119", "97674223", "1195524421"};
-        System.out.println(sol.solution(phoneBook));
+        System.out.println(phone_book.solution(phoneBook));
     }
 
 }
