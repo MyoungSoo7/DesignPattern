@@ -28,10 +28,10 @@ public class Clothes {
         Clothes sol = new Clothes();
 
         String[][] clothes = {
-                {"얼굴","동그란 안경","검정 선글라스"},
-                {"상의", "파란색 티셔츠"},
-                {"하의", "청바지"},
-                {"겉옷", "긴 코트"}
+                {"yellow_hat", "headgear"},
+                {"blue_sunglasses", "eyewear"},
+                {"green_turban", "headgear"},
+
         };
 
         System.out.println(sol.solution(clothes));
