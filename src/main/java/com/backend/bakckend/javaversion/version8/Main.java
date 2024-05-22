@@ -1,8 +1,6 @@
 package com.backend.bakckend.javaversion.version8;
 
-
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
@@ -18,8 +16,6 @@ import java.util.stream.Stream;
 public class Main {
 
     public static void main(String[] args) {
-
-
         // 기존
         new Thread(new Runnable() {
             @Override
