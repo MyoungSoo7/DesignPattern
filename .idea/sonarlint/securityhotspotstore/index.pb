@@ -279,3 +279,8 @@ r
 Bsrc/main/java/com/backend/bakckend/programmers/hash/PhoneBook.java,d\b\db317a701454fed172252fa0ce17e0198585da8d
 ‡
 Wsrc/main/java/com/backend/bakckend/programmers/hash/stackqueue/FunctionDevelopment.java,8\3\8300f6e877a3317518989bf99dae102d6f4d37b2
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+€
+Psrc/main/java/com/backend/bakckend/programmers/hash/stackqueue/RightBracket.java,5\4\541a91392e440321be9b7f56553de7c7500a213b

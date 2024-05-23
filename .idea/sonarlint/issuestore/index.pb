@@ -271,3 +271,8 @@ r
 Bsrc/main/java/com/backend/bakckend/javaversion/version11/Test.java,c\4\c4f044859eecbf9c60ec563e7b5b9185be15e111
 r
 Bsrc/main/java/com/backend/bakckend/javaversion/version17/Test.java,5\b\5bcef6cf12979eaf8d5c307a6aa69d3f61fa061f
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+€
+Psrc/main/java/com/backend/bakckend/programmers/hash/stackqueue/RightBracket.java,5\4\541a91392e440321be9b7f56553de7c7500a213b
