@@ -265,8 +265,6 @@ v
 Fsrc/main/java/com/backend/bakckend/designpattern/equate/Composite.java,0\6\06e87d0e43bdd955ffd0926ea2eb3e69db567747
 x
 Hsrc/main/java/com/backend/bakckend/javaversion/version14/RecordName.java,e\5\e5df497bc889d8ded5619caae472fef5d788f48f
-}
-Msrc/main/java/com/backend/bakckend/javaversion/version16/PatternVariable.java,f\a\fa7b0833a888047d8aaea62db88a118430eec431
 r
 Bsrc/main/java/com/backend/bakckend/javaversion/version11/Test.java,c\4\c4f044859eecbf9c60ec563e7b5b9185be15e111
 r
@@ -276,3 +274,11 @@ Bsrc/main/java/com/backend/bakckend/javaversion/version17/Test.java,5\b\5bcef6c
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 €
 Psrc/main/java/com/backend/bakckend/programmers/hash/stackqueue/RightBracket.java,5\4\541a91392e440321be9b7f56553de7c7500a213b
+‡
+Wsrc/main/java/com/backend/bakckend/programmers/hash/stackqueue/FunctionDevelopment.java,8\3\8300f6e877a3317518989bf99dae102d6f4d37b2
+w
+Gsrc/main/java/com/backend/bakckend/javaversion/version8/StreamTest.java,b\f\bf424e3b32c25c9d32c85548372cc4ffb055c6c7
+p
+@src/main/java/com/backend/bakckend/javaversion/version8/test.txt,4\1\41b3cb37cb89d6c8ef1f74d244bf7f722e148305
+{
+Ksrc/main/java/com/backend/bakckend/codingtest/leet/CombinationIterator.java,0\a\0a543ba8d880eb0d7ec5954309a1741348e51157
