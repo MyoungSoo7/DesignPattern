@@ -304,3 +304,5 @@ r
 Bsrc/main/java/com/backend/bakckend/datastructure/StackExample.java,8\9\894f45a0ec5edf1f6418d2d9987b38c79a3a5241
 k
 ;src/main/java/com/backend/bakckend/datastructure/Stack.java,9\d\9de3b45b8a44326d582337e35952946944eabd6b
+k
+;src/main/java/com/backend/bakckend/datastructure/Queue.java,d\e\de4a137ddd628e8beaaf4940bae62bcbfee496e7
