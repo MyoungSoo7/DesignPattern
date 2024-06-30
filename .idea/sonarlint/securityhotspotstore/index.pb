@@ -300,3 +300,7 @@ v
 Fsrc/main/java/com/backend/bakckend/codingtest/leet/ReorderedPower.java,7\1\718aa3dc5dd18e0c1158fca01da1350a331e2446
 s
 Csrc/main/java/com/backend/bakckend/codingtest/leet/SeatManager.java,0\0\00a0e32179b6c9f49c36e14f9ec912d1f730fecd
+r
+Bsrc/main/java/com/backend/bakckend/datastructure/StackExample.java,8\9\894f45a0ec5edf1f6418d2d9987b38c79a3a5241
+k
+;src/main/java/com/backend/bakckend/datastructure/Stack.java,9\d\9de3b45b8a44326d582337e35952946944eabd6b
