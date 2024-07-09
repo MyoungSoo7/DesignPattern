@@ -1,5 +1,7 @@
 package com.backend.bakckend.codingtest.control;
 
+import java.util.Arrays;
+
 public class StringManipulation {
 
     public static boolean isPalindrome(String str) {
@@ -29,6 +31,18 @@ public class StringManipulation {
         return sb.toString();
     }
 
+    public static boolean isAnagram(String str1, String str2){
+        if(str1.length() != str2.length()){
+            return false;
+        }
+        char[] arr1 = str1.toCharArray();
+        char[] arr2 = str2.toCharArray();
+        Arrays.sort(arr1);
+        Arrays.sort(arr2);
+        return Arrays.equals(arr1, arr2);
+    }
+
+
 
     public static void main(String[] args) {
 
@@ -47,9 +61,18 @@ public class StringManipulation {
 
         System.out.println("회문여부 : " + isPalindrome("level"));
 
-        String str = "aaabbcccc";
-        String compressed = compressString(str);
+        boolean isAnagram1 = isAnagram(str1, str2);
+        System.out.println("아나그램 여부: " + isAnagram1);
+        String str4 = "listen";
+        String str5 = "silent";
+        boolean isAnagram2= isAnagram(str4, str5);
+        System.out.println("아나그램 여부: " + isAnagram2);
+
+        String str6 = "aaabbcccc";
+        String compressed = compressString(str6);
         System.out.println("압축된 문자열: " + compressed);
+
+
 
 
 
