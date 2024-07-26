@@ -1,27 +1,20 @@
 package com.backend.bakckend.designpattern.mandate;
 
-
 import java.util.HashMap;
-
 
 // car abstract instance
 abstract class Car{
     String carType;
-
     public String toString(){
         return carType;
     }
 }
-
-
 
 // car factory abstract instance
 abstract class CarFactory{
     abstract Car createCar(String name);
     abstract Car returnMyCar(String name);
 }
-
-
 
 // Hyundai factory(CarFactory)
 class HyundaiFactory extends CarFactory{
@@ -77,9 +70,7 @@ class Santafe extends Car{
 }
 
 public class Factory {
-
     public static void main(String[] args) {
-
         CarFactory factory = new HyundaiFactory();
         Car car1 = factory.createCar("sonata");
         Car car2 = factory.createCar("santafe");
@@ -89,10 +80,6 @@ public class Factory {
 
         Car myCar = factory.returnMyCar("James");
         Car hisCar = factory.returnMyCar("Tomas");
-
         System.out.println(myCar == hisCar);
-
-
     }
-
 }
