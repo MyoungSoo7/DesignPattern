@@ -1,43 +1,37 @@
 package com.backend.bakckend.programmers.hash.array;
 
-
 import java.util.*;
 
 public class BigNumber {
 
     public static int[] solution(int[] numbers) {
-        int n = numbers.length;
-        int[] answer = {};
-        List<Integer> list = new ArrayList<>();
-        List<Integer> list2 = new LinkedList<>();
+        int[] answer = new int[numbers.length];
+        int n= numbers.length;
         Stack<Integer> stack = new Stack<>();
-        Queue<Integer> queue = new PriorityQueue<>();
-        for(int i=0; i< n ; i++){
-            stack.push(numbers[i]);
-        }
-        for(int i=0; i< n ; i++){
-            queue.add(numbers[i]);
-        }
-        for(int i=0; i<n ; i++){
-            list.add(numbers[i]);
-        }
-        for(int i=0; i<n ; i++){
-            list2.add(numbers[i]);
+
+        for(int i=0; i< n-1; i++){
+            stack.push(i);
+            while(!stack.isEmpty() && numbers[stack.peek()] < numbers[i+1]){
+                System.out.println("stack.peek() : " + stack.peek());
+                System.out.println("numbers[i+1] : " + numbers[i+1]);
+                answer[stack.pop()] = numbers[i+1];
+            }
+            System.out.println(Arrays.toString(answer));
         }
 
-        System.out.println("numbers : " + Arrays.stream(numbers).collect(ArrayList::new, ArrayList::add, ArrayList::addAll));
-        System.out.println("stack : " + stack);
-        System.out.println("queue : " + queue);
-        System.out.println("ArrayList : " + list);
-        System.out.println("LinkedList : " + list2);
+        while(!stack.isEmpty()){
+            answer[stack.pop()] = -1;
+        }
 
-
+        answer[n-1] = -1;
         return answer;
+
     }
 
     public static void main(String[] args) {
-        int[] numbers = {2, 3, 3, 5}; //[3, 5, 5, -1]
+        int[] numbers = {9, 1, 5, 3, 6, 2}; //[3, 5, 5, -1]
         int[] result = solution(numbers);
+        System.out.println(Arrays.toString(result));
     }
 
 }
