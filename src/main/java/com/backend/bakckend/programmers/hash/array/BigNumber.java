@@ -12,11 +12,8 @@ public class BigNumber {
         for(int i=0; i< n-1; i++){
             stack.push(i);
             while(!stack.isEmpty() && numbers[stack.peek()] < numbers[i+1]){
-                System.out.println("stack.peek() : " + stack.peek());
-                System.out.println("numbers[i+1] : " + numbers[i+1]);
                 answer[stack.pop()] = numbers[i+1];
             }
-            System.out.println(Arrays.toString(answer));
         }
 
         while(!stack.isEmpty()){
