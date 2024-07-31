@@ -1,7 +1,6 @@
 package com.backend.bakckend.programmers.number;
 
 import java.util.Arrays;
-import java.util.Stack;
 import java.util.stream.IntStream;
 
 public class OnlyOneNumber {
