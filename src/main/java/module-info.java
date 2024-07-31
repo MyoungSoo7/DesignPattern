@@ -4,6 +4,7 @@ module com.backend.bakckend {
     requires java.desktop;
     requires kotlin.stdlib;
     requires java.security.jgss;
+    requires jdk.unsupported.desktop;
 
 
     opens com.backend.bakckend to javafx.fxml;
