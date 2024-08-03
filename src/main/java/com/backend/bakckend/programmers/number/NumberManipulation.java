@@ -1,6 +1,5 @@
 package com.backend.bakckend.programmers.number;
 
-
 import java.util.Arrays;
 
 public class NumberManipulation {
