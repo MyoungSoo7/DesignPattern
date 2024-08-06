@@ -1,7 +1,6 @@
 package com.backend.bakckend.programmers.strings;
 
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.Collections;
 
 public class DescStringsTarget {
