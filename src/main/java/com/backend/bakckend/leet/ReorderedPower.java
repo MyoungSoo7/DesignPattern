@@ -1,4 +1,4 @@
-package com.backend.bakckend.baekjoon.codingtest.leet;
+package com.backend.bakckend.leet;
 
 import java.util.Arrays;
 import java.util.HashSet;

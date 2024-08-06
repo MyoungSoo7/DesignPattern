@@ -1,4 +1,4 @@
-package com.backend.bakckend.baekjoon.codingtest.leet.node;
+package com.backend.bakckend.leet.node;
 
 import java.util.HashMap;
 import java.util.Map;
