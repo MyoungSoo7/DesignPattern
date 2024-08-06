@@ -1,11 +1,5 @@
 package com.backend.bakckend.test;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.function.Consumer;
-
 public class ArrayListTest {
 
     public static void main(String[] args) {

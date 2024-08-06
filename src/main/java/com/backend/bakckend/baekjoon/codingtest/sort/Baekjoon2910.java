@@ -1,8 +1,9 @@
 package com.backend.bakckend.baekjoon.codingtest.sort;
 
 
-import java.io.IOException;
-import java.util.*;
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.Scanner;
 
 // 빈도정렬
 public class Baekjoon2910 {

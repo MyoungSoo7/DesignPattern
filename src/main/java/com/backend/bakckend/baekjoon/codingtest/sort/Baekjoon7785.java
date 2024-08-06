@@ -1,6 +1,8 @@
 package com.backend.bakckend.baekjoon.codingtest.sort;
 
-import java.util.*;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeSet;
 
 // 회사에 있는 사람
 public class Baekjoon7785 {

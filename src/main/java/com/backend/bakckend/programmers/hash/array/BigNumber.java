@@ -1,6 +1,7 @@
 package com.backend.bakckend.programmers.hash.array;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Stack;
 
 public class BigNumber {
 

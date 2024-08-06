@@ -1,7 +1,5 @@
 package com.backend.bakckend.programmers.hash.array;
 
-import java.util.Arrays;
-
 public class DivideNumber {
 
    /* public static boolean checkDivisibility(int gcdValue, int[] array){

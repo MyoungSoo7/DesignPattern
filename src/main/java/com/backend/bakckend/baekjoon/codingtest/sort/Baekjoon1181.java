@@ -1,6 +1,8 @@
 package com.backend.bakckend.baekjoon.codingtest.sort;
 
-import java.util.*;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeSet;
 
 // 단어 정렬
 public class Baekjoon1181{
