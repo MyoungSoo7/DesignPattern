@@ -1,0 +1,20 @@
+
+O
+java:S3958"2Refactor the code so this stream pipeline is used.(àùÍ¤8Ó±Ë1
+W
+java:S1854":Remove this useless assignment to local variable "stream".(àùÍ¤8“Ó±Ë1
+T
+java:S1854"7Remove this useless assignment to local variable "map".(·˜±Ó8‡±€°Ë1
+T
+java:S1854"7Remove this useless assignment to local variable "set".(™ÓÁ8ˆ±€°Ë1
+Z
+java:S1854"8Remove this useless assignment to local variable "lsit".(ÄˆşÂşÿÿÿÿ8ˆ±€°Ë1
+K
+java:S1481")Remove this unused "lsit" local variable.(ÄˆşÂşÿÿÿÿ8ˆ±€°Ë1
+E
+java:S1481"(Remove this unused "set" local variable.(™ÓÁ8‰±€°Ë1
+E
+java:S1481"(Remove this unused "map" local variable.(·˜±Ó8‰±€°Ë1
+H
+java:S1481"+Remove this unused "stream" local variable.(àùÍ¤8•Ó±Ë1
+]	java:S125"<This block of commented-out lines of code should be removed.(¿»²ÿÿÿÿÿ8•Ó±Ë1

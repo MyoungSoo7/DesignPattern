@@ -1,0 +1,17 @@
+
+
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ó×ÔŒ8ç¬ÃŸ‡2J$80347822-79fb-4b9f-856c-6700217a9a42
+}
+java:S1141"5Extract this nested try block into a separate method.(ô«˜«úÿÿÿÿ8è¬ÃŸ‡2J$1f32346f-f089-4fee-9973-936704abb293
+j
+java:S2189
+""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8è¬ÃŸ‡2J$bd394e2b-158b-44b8-abc2-292f9e753011
+}
+java:S1118":Add a private constructor to hide the implicit public one.(íÑ±à8ê¬ÃŸ‡2J$24cec8a4-ff0c-4921-83cc-66e6fe0b25db
+s
+java:S1172"+Remove this unused method parameter "args".(×­Éêşÿÿÿÿ8ë¬ÃŸ‡2J$92f2a494-2732-466f-8dbe-cf8c5d3174aa
+r	java:S106"+Replace this use of System.out by a logger.(‘ôĞúÿÿÿÿ8ì¬ÃŸ‡2J$2f6d5c5c-1e22-4989-9b1f-637960a6bbcb
+m	java:S106"+Replace this use of System.out by a logger.(¢ïõº8î¬ÃŸ‡2J$3ffc06aa-364b-42d0-8dae-8ddf45e264a1
+m	java:S106"+Replace this use of System.out by a logger.(ŞÃíÍ8î¬ÃŸ‡2J$8f8c6ca7-d51e-46ca-bbf0-470f7f23f947
+r	java:S106"+Replace this use of System.out by a logger.(®×êûÿÿÿÿ8ï¬ÃŸ‡2J$ac5b1fab-dd22-41fb-ba6c-0f425e9bf2d4
+m	java:S106"+Replace this use of System.out by a logger.(Ø®ãÎ8ï¬ÃŸ‡2J$b93a92a0-e9a7-4f20-9bb1-c208786b25ef

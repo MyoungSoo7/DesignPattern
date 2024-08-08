@@ -1,0 +1,11 @@
+
+o
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÃäÏ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(ºç½¨
+E	java:S106&"+Replace this use of System.out by a logger.(Òô‹Éþÿÿÿÿ
+@	java:S106+"+Replace this use of System.out by a logger.(Ã«ÝÇ
+F	java:S106°"+Replace this use of System.out by a logger.(•ø—‘ýÿÿÿÿ
+A	java:S106±"+Replace this use of System.out by a logger.(ÃÕð¸
+A	java:S106²"+Replace this use of System.out by a logger.(Ñ„ó©
+F	java:S106³"+Replace this use of System.out by a logger.(ßâÎ§þÿÿÿÿ

@@ -1,0 +1,11 @@
+
+
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Æÿö­8Œ»§Ÿ‡2J$a9b79b0f-e08f-422f-b7d7-2032430a3da0
+}
+java:S1118":Add a private constructor to hide the implicit public one.(ùï×ô8‘»§Ÿ‡2J$e6aa7581-2aae-4e75-9a8f-18bb75ba2aa3
+s
+java:S1172"+Remove this unused method parameter "args".(×­Éêşÿÿÿÿ8’»§Ÿ‡2J$803fe688-f879-4757-be23-b7e2846406ce
+m	java:S106"+Replace this use of System.out by a logger.(ó»•î8š»§Ÿ‡2J$9e189cb2-d80d-40ea-88fd-93788171239f
+r	java:S106"+Replace this use of System.out by a logger.(ëŠÛıÿÿÿÿ8š»§Ÿ‡2J$b8b37f4d-e5d5-49b7-af8f-ed36d2532e4b
+r	java:S106"+Replace this use of System.out by a logger.(é¡²»ûÿÿÿÿ8›»§Ÿ‡2J$be66a50c-7202-4ba7-9211-027261581951
+r	java:S106"+Replace this use of System.out by a logger.(äµÆùúÿÿÿÿ8›»§Ÿ‡2J$ac01d76d-c954-48eb-8c15-a13035aeb612

@@ -1,0 +1,5 @@
+
+m	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’’¿Ê8î—ó¯Ë1
+G	java:S106"+Replace this use of System.out by a logger.(‰ã¼ç8ô—ó¯Ë1
+Q
+java:S1144"4Remove this unused private "myPrivateMethod" method.(ÿÝ½˜8õ—ó¯Ë1

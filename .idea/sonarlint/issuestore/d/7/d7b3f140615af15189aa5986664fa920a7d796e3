@@ -1,0 +1,27 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®8öÉ¢ùÒ1
+^
+java:S1854"<Remove this useless assignment to local variable "runnable".(ª×Ûşıÿÿÿÿ8ıÉ¢ùÒ1
+G	java:S106"+Replace this use of System.out by a logger.(ëôßÊ8ÿÉ¢ùÒ1
+G	java:S106"+Replace this use of System.out by a logger.(ºÖĞ’8ÿÉ¢ùÒ1
+N
+java:S1602",Remove useless curly braces around statement(ª×Ûşıÿÿÿÿ8‹§°Ó1
+G	java:S106 "+Replace this use of System.out by a logger.(ëôßÊ8Ê¢ùÒ1
+O
+java:S1481"-Remove this unused "runnable" local variable.(ª×Ûşıÿÿÿÿ8€Ê¢ùÒ1
+X	java:S125$"<This block of commented-out lines of code should be removed.(é»ğƒ8€Ê¢ùÒ1
+9
+java:S1116'"Remove this empty statement.(È¨•‘8€Ê¢ùÒ1
+L	java:S106-"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8Ê¢ùÒ1
+b
+java:S16122"@Replace this lambda with method reference 'System.out::println'.(¯±ûëüÿÿÿÿ8Ê¢ùÒ1
+L	java:S1062"+Replace this use of System.out by a logger.(¯±ûëüÿÿÿÿ8‚Ê¢ùÒ1
+b
+java:S16125"@Replace this lambda with method reference 'System.out::println'.(Ò¾”ìşÿÿÿÿ8‚Ê¢ùÒ1
+L	java:S1065"+Replace this use of System.out by a logger.(Ò¾”ìşÿÿÿÿ8‚Ê¢ùÒ1
+L	java:S106:"+Replace this use of System.out by a logger.(Ò»©îúÿÿÿÿ8ª‘¤ùÒ1
+L	java:S106;"+Replace this use of System.out by a logger.(øÜ‰Šùÿÿÿÿ8’ô¤ùÒ1
+L	java:S106<"+Replace this use of System.out by a logger.(ş»±íÿÿÿÿÿ8’ô¤ùÒ1
+L	java:S106="+Replace this use of System.out by a logger.(öĞöøÿÿÿÿ8“ô¤ùÒ1
+L	java:S106?"+Replace this use of System.out by a logger.(å²«­úÿÿÿÿ8š‹§°Ó1

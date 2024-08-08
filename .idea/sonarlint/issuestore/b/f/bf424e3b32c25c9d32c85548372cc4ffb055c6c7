@@ -1,0 +1,13 @@
+
+	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(¼ğĞôıÿÿÿÿ8ÒÚœÏÿ1J$951fa801-3a50-40df-9cc5-946fd67d2c44
+”
+java:S2095-"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(€š†Á8ÙÚœÏÿ1J$309f03d3-853a-4c5c-8bbd-57d06b94c2f8
+´
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ÛĞÏÿ1J$ae279d6c-7737-4251-86c6-43d138476ffb
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ùÏó©ûÿÿÿÿ8ÜĞÏÿ1J$2fa41a36-c633-4ff9-806b-bc84e710bfa3
+m	java:S106%"+Replace this use of System.out by a logger.(¾çœô8ßÚœÏÿ1J$85dfd582-b8e6-4efc-962e-83ca69be64ba
+m	java:S106&"+Replace this use of System.out by a logger.(‘Ù† 8ßÚœÏÿ1J$8c0e94af-e2d1-43c7-b18c-2f75eb26674f
+r	java:S106."+Replace this use of System.out by a logger.(ÄÂïœøÿÿÿÿ8áÚœÏÿ1J$f4f90001-dc61-4718-88d5-0bbc43c120dd
+ƒ	java:S125/"<This block of commented-out lines of code should be removed.(ÿ¬¢Ëøÿÿÿÿ8áÚœÏÿ1J$f5f0dfc1-3894-4bbc-a718-fba7e1cecc25
+|
+java:S1144+"4Remove this unused private "fileInputStream" method.(¼ğĞôıÿÿÿÿ8ãĞÏÿ1J$205609f3-0109-4bf5-900e-febe02742836

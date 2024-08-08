@@ -1,0 +1,14 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(úùÐÔ8¯ÐÄž‡2J$dc60739c-6860-4d61-89be-d4ff0f91ab29
+r
+java:S1197"*Move the array designators [] to the type.(¤Ôû úÿÿÿÿ8“òÅž‡2J$cf51dbbb-e59e-48cb-95df-6c0d0f4999ae
+s
+java:S1172"+Remove this unused method parameter "args".(×­Éêþÿÿÿÿ8ÁÐÄž‡2J$09766f61-b57e-4e3f-a5f3-029eda13d1d9
+l
+java:S1197"*Move the array designators [] to the type.(°ÅòA8ÔºÆž‡2J$9306f04c-0969-4e78-8103-2ac40b43b6eb
+m	java:S106"+Replace this use of System.out by a logger.(«¹Žò8ÁÐÄž‡2J$e181a107-61d5-4fa9-9cb3-cd8902718823
+r	java:S106"+Replace this use of System.out by a logger.(¬ñé‡þÿÿÿÿ8ÂÐÄž‡2J$0e60b636-e8da-4978-a858-bb4b73d466b6
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ÂÐÄž‡2J$00172705-0cd3-42ad-98e6-9dfbdefa1662
+r	java:S106"+Replace this use of System.out by a logger.(Âãõ®þÿÿÿÿ8ÂÐÄž‡2J$a85deba7-9a15-460f-bc4e-faeb714f1337
+r	java:S106!"+Replace this use of System.out by a logger.(¬ñé‡þÿÿÿÿ8ÂÐÄž‡2J$f2104dd5-c7ed-4292-a84c-e0625de4b57d
