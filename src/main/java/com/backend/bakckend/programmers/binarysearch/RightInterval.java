@@ -1,4 +1,4 @@
-package com.backend.bakckend.programmers.BinarySearch;
+package com.backend.bakckend.programmers.binarysearch;
 
 import java.util.Arrays;
 
