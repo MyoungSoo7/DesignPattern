@@ -1,10 +1,14 @@
 package com.backend.bakckend.programmers.dfsbfs;
+
 import java.util.LinkedList;
 import java.util.Queue;
+
 public class ShortestPathInGameMap {
+
     // 방향 벡터 (상, 하, 좌, 우)
     private static final int[] dx = {-1, 1, 0, 0};
     private static final int[] dy = {0, 0, -1, 1};
+
     public int solution(int[][] maps) {
         int n = maps.length;
         int m = maps[0].length;
