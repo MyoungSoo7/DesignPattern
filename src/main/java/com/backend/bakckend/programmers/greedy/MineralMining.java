@@ -18,7 +18,7 @@ public class MineralMining {
 
     public static void main(String[] args) {
         int[] picks = {1, 3, 2};  // 다이아몬드, 철, 돌 곡괭이 개수
-        String[] minerals = {"diamond", "diamond", "diamond", "iron", "iron", "diamond", "iron", "stone"};
+        String[] minerals = {"diamond", "iron", "stone", "diamond", "iron", "stone", "diamond", "iron", "stone"};
         System.out.println(solution(picks, minerals));  // 최소 피로도 출력
     }
 }
