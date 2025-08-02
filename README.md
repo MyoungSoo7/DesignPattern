@@ -35,7 +35,7 @@
 - 템플릿 메서드 패턴 (Template Method Pattern) : 알고리즘의 구조를 정의하고, 하위 클래스에서 세부 구현을 제공한다.(게임 루프, 데이터 처리 파이프라인)
 - 방문자 패턴 (Visitor Pattern) : 객체 구조를 변경하지 않고 새로운 기능을 추가한다.(객체 트리 탐색, 문서 구조 변환)
 
-
+참고 : https://refactoring.guru/ko/design-patterns
 
 <!--
 
